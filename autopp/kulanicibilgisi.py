@@ -1,6 +1,6 @@
 from datetime import datetime
 
 
-Username = "yavruBARBAR"
-Password = "yavrubarbarsaplar777"
-deneme = "yavru barbar saplar"
+Username = "kullanıcı adın"
+Password = "sifren"
+deneme = "bio içeriği"
